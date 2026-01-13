@@ -42,7 +42,7 @@ if __name__ == '__main__':
                 # close_mosaic=0,
                 epochs=150,
                 imgsz=640,
-                device= "mps" , #0,  # 使用GPU设备，如果有多个GPU，可以使用如 'cuda:1' 这样的指定
+                device=0 , #0,  # 使用GPU设备，如果有多个GPU，可以使用如 'cuda:1' 这样的指定
                 optimizer='SGD',
                 batch=16,
                 # seed=8888,
