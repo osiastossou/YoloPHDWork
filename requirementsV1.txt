@@ -62,8 +62,8 @@ namex==0.0.9
 narwhals==1.19.1
 numpy==1.26.4
 onnx==1.14.0
-onnxruntime==1.15.1
-onnxslim==0.1.31
+onnxruntime
+onnxslim
 opencv-python==4.9.0.80
 opencv-python-headless
 openpyxl==3.1.5
