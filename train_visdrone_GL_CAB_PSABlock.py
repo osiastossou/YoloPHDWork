@@ -15,14 +15,13 @@ if __name__ == '__main__':
     # 训练模型，并传递优化器参数
 
     # Liste des datasets disponibles :
-    datas = ['ultralytics/cfg/datasets/VisDrone.yaml' ,
-             'ultralytics/cfg/datasets/DOTAv1.5.yaml']
     
+    datas = ['ultralytics/cfg/datasets/VisDrone.yaml']
+    
+
+
     # Liste des modèles disponibles :
-    models = ['ultralytics/cfg/models/11/yolo11.yaml',
-              'ultralytics/cfg/models/11/yolo11-ACmix.yaml', 
-              'ultralytics/cfg/models/11/yolov11n-GL_CAB.yaml', 
-              'ultralytics/cfg/models/11/yolov11n-GL_CAB_PSABlock.yaml']
+    models = ['ultralytics/cfg/models/11/yolov11n-GL_CAB_PSABlock.yaml']
     
     # datas = ['ultralytics/cfg/datasets/DOTAv1.5.yaml']
     # models = ['ultralytics/cfg/models/11/yolov11n-GL_CAB_PSABlock.yaml']
@@ -43,7 +42,7 @@ if __name__ == '__main__':
                 # close_mosaic=0,
                 epochs=150,
                 imgsz=640,
-                device=0,#0,  # 使用GPU设备，如果有多个GPU，可以使用如 'cuda:1' 这样的指定
+                device=0,  # 使用GPU设备，如果有多个GPU，可以使用如 'cuda:1' 这样的指定
                 optimizer='SGD',
                 batch=16,
                 # seed=8888,

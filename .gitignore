@@ -1,2 +1,10 @@
 runs/*
 runs
+*.log
+*/__pycache__/
+*.tmp
+.DS_Store
+.env
+.vscode/
+.idea/
+*log*
