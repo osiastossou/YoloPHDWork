@@ -56,7 +56,6 @@ matplotlib==3.9.4
 mdurl==0.1.2
 ml_dtypes==0.5.1
 mmcv==2.2.0
-mmcv-full==1.7.2
 mmengine==0.10.6
 multidict==6.1.0
 namex==0.0.9
