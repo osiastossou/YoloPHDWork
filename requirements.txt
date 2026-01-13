@@ -24,7 +24,6 @@ babel
 backcall
 beautifulsoup4
 bleach
-brotli-python
 bzip2
 ca-certificates
 certifi
