@@ -139,7 +139,6 @@ pywavelets==1.6.0
 pyyaml==6.0.1
 pyzmq==26.2.0
 qudida==0.0.4
-readline==8.2
 referencing==0.35.1
 regex
 requests==2.32.3
