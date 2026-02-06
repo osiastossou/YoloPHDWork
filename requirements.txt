@@ -25,8 +25,6 @@ attrs==24.3.0
 babel==2.11.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bleach
-brotli-python
 bzip2==1.0.8
 ca-certificates==2024.12.14
 certifi==2024.12.14
