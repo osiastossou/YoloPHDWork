@@ -104,8 +104,6 @@ onnxslim==0.1.31
 opencv-python==4.9.0.80
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.5
-openssl==3.4.0
-opt-einsum==3.4.0
 optree==0.15.0
 orjson==3.10.12
 overrides==7.4.0
@@ -116,7 +114,6 @@ parso==0.8.4
 pexpect==4.8.0
 pickleshare==0.7.5
 pillow==10.4.0
-pip==24.2
 platformdirs==3.10.0
 prometheus_client==0.21.0
 prompt-toolkit==3.0.43
