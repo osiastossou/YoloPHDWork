@@ -8,3 +8,4 @@ runs
 .vscode/
 .idea/
 *log*
+env
