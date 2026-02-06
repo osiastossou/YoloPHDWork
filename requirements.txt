@@ -91,7 +91,6 @@ keras==3.9.2
 kiwisolver==1.4.7
 lazy-loader==0.4
 lightning-utilities==0.11.9
-llvm-openmp
 mdurl==0.1.2
 mistune==2.0.4
 ml-dtypes==0.5.1
