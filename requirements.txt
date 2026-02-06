@@ -97,7 +97,6 @@ ml-dtypes==0.5.1
 mmcv==2.2.0
 mmcv-full==1.7.2
 mmengine==0.10.6
-mpc==1.3.1
 mpfr==4.2.1
 mpmath==1.3.0
 multidict==6.1.0
