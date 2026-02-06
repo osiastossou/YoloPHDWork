@@ -58,7 +58,7 @@ fsspec
 gast==0.6.0
 gitdb==4.0.12
 gitpython==3.1.44
-gmp==6.3.0
+gmp
 gmpy2==2.1.5
 google-pasta==0.2.0
 gradio==4.31.5
