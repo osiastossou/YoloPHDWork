@@ -91,12 +91,7 @@ keras==3.9.2
 kiwisolver==1.4.7
 lazy-loader==0.4
 lightning-utilities==0.11.9
-llvm-openmp==19.1.6
-markdown==3.7
-markdown-it-py==3.0.0
-markupsafe==2.1.5
-matplotlib==3.9.4
-matplotlib-inline==0.1.6
+llvm-openmp
 mdurl==0.1.2
 mistune==2.0.4
 ml-dtypes==0.5.1
